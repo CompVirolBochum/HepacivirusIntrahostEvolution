@@ -63,5 +63,6 @@ Those dataframes are used for visualization in the following R scripts:
 **Correspondance**
 
 Computational Virology </br>
-Ruhr-University Bochum </br>
-@ruhr-uni-bochum.de
+Ruhr University Bochum </br>
+computational-virology@ruhr-uni-bochum.de </br>
+https://www.ruhr-uni-bochum.de/virologie/ </br>
