@@ -37,6 +37,8 @@ Raw read data is available at SRA Bioproject: [PRJNA785969](http://www.ncbi.nlm.
 **Processing and data analysis:**
 Raw reads are trimmed and quality checked by running autoTrim.sh. Virus population analysis is conducted via Diversity.sh. Output data includes files with information on nucleotide (entropy, dNdS) and aminoacid (AA) diversity as well as codon count tables.
 
+To run Diversity.sh please adjust path variables according to your data and installation setup - see lines 7 to 36.
+
 The following packages were used:
 - Trimmomatic
 - FastQC
@@ -60,7 +62,7 @@ Those dataframes are used for visualization in the following R scripts:
 </br>
 
 ---
-**Correspondance**
+**Correspondence**
 
 Computational Virology </br>
 Ruhr University Bochum </br>
